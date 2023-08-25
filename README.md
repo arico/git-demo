@@ -2,8 +2,6 @@
 
 This is the first file in this repo
 
-## Ipsum Below
+## Website Contents
 
-This is some additional text.
-
-This is some additional text.
+index.html
